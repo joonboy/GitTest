@@ -9,7 +9,7 @@ public class mainFunc {
 		
 		System.out.println("TEST02!!!");
 		
-		System.out.println("TEST03!!!");
+		System.out.println("TEST04!!!");
 	}
 
 }
