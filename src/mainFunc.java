@@ -5,7 +5,7 @@ public class mainFunc {
 		// TODO Auto-generated method stub
 		System.out.println("Hell World");
 		
-		System.out.println("TEST");
+		System.out.println("TEST!!!");
 	}
 
 }
